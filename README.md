@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-**Deployed App:** [your-app.streamlit.app](https://your-app.streamlit.app)
+**Deployed App:** [your-app.streamlit.app](https://factguard-ai.streamlit.app/)
 
 ---
 
@@ -44,7 +44,7 @@ PDF → pdfplumber → raw text
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/factguard-ai.git
+git clone https://github.com/iamsatwik-dev/factguard-ai
 cd factguard-ai
 ```
 
